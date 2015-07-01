@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.3dcart.com/ecommerce-1.0.dtd">
+<channel>
+<title>Danilo's Store: New Releases</title>
+<link>http://cartdanilo.3dc.local</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description>List of New Released Items at Danilo's Store</description>
+<language>en-us</language>
+<isc:store_name><![CDATA[Danilo's Store]]></isc:store_name>
+<item>
+<title><![CDATA[New Product - Please enter name here]]></title>
+<link>http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html?referrer=rss"><img src="http://cartdanilo.3dc.local/" align="right" border=0></a>...<a href="http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £0.00 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3240&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html?referrer=rss"><img src="http://cartdanilo.3dc.local/" align="right" border=0></a>...<a href="http://cartdanilo.3dc.local/New-Product--Please-enter-name-here_p_3240.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £0.00 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3240&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[]]></isc:description>
+<isc:productid><![CDATA[New Product - Please enter name here]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/]]></isc:image>
+<isc:price><![CDATA[£0.00]]></isc:price>
+</item>
+<item>
+<title><![CDATA[Versace Fashion Sunglasses]]></title>
+<link>http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/2154/2030-1001-11-61-17.jpg?maxX=120&maxY=120" align="right" border=0></a>Genuine Versace Sunglasses denote luxury glamour elegant style and design.Features:Model Number2030/1001/11/61/17Size61/17/120FrameGunmetalLensesGrey gradient scratch/impact resistantProtection100 percent UVA and UVBManufacturedItalyCaseIncludedOther...<a href="http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £134.74 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3194&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/2154/2030-1001-11-61-17.jpg?maxX=120&maxY=120" align="right" border=0></a>Genuine Versace Sunglasses denote luxury glamour elegant style and design.Features:Model Number2030/1001/11/61/17Size61/17/120FrameGunmetalLensesGrey gradient scratch/impact resistantProtection100 percent UVA and UVBManufacturedItalyCaseIncludedOther...<a href="http://cartdanilo.3dc.local/Versace-Fashion-Sunglasses_p_3194.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £134.74 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3194&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[Genuine Versace Sunglasses denote luxury glamour elegant style and design.<br><br><b>Features:</b><BR>Model Number<BR>2030/1001/11/61/17<BR>Size<BR>61/17/120<BR>Frame<BR>Gunmetal<BR>Lenses<BR>Grey gradient scratch/impact resistant<BR>Protection<BR>100 percent UVA and UVB<BR>Manufactured<BR>Italy<BR>Case<BR>Included<BR>Other<BR>Adjustable nose pads white encrusted crystals on logo<BR>Dimensions<BR>7 inches from temple to temple]]></isc:description>
+<isc:productid><![CDATA[Versace Fashion Sunglasses]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/2154/2030-1001-11-61-17.jpg?maxX=120&maxY=120]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/2154/2030-1001-11-61-17.jpg]]></isc:image>
+<isc:price><![CDATA[£134.74]]></isc:price>
+</item>
+<item>
+<title><![CDATA[MEN'S BIFOLD LEATHER WALLET]]></title>
+<link>http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/6/LULWAL17_800.jpg?maxX=120&maxY=120" align="right" border=0></a>Features genuine leather exterior and man-made interior. Fits easily into your front or back pocket. Space for credit cards license and bills. Measures 4-3/8&quot; x 3-3/8&quot;....<a href="http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £3.30 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3192&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/6/LULWAL17_800.jpg?maxX=120&maxY=120" align="right" border=0></a>Features genuine leather exterior and man-made interior. Fits easily into your front or back pocket. Space for credit cards license and bills. Measures 4-3/8&quot; x 3-3/8&quot;....<a href="http://cartdanilo.3dc.local/MENS-BIFOLD-LEATHER-WALLET_p_3192.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £3.30 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3192&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[Features genuine leather exterior and man-made interior. Fits easily into your front or back pocket. Space for credit cards license and bills. Measures 4-3/8&quot; x 3-3/8&quot;.]]></isc:description>
+<isc:productid><![CDATA[MEN'S BIFOLD LEATHER WALLET]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/6/LULWAL17_800.jpg?maxX=120&maxY=120]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/6/LULWAL17_800.jpg]]></isc:image>
+<isc:price><![CDATA[£3.30]]></isc:price>
+</item>
+<item>
+<title><![CDATA[Artist Messenger Gray]]></title>
+<link>http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/4/CSAM15GRAY.jpg?maxX=120&maxY=120" align="right" border=0></a>Canvas Artist Messenger Bag with 15.4 Laptop Storage Grey Comes with ink pen; Do-it-yourself art samples and instructions; Stencils available on the web ...<a href="http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £90.00 <font color="red">On Sale</font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3186&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/4/CSAM15GRAY.jpg?maxX=120&maxY=120" align="right" border=0></a>Canvas Artist Messenger Bag with 15.4 Laptop Storage Grey Comes with ink pen; Do-it-yourself art samples and instructions; Stencils available on the web ...<a href="http://cartdanilo.3dc.local/Artist-Messenger-Gray_p_3186.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £90.00 <font color="red">On Sale</font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3186&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[Canvas Artist Messenger Bag with 15.4  Laptop Storage Grey Comes with ink pen; Do-it-yourself art samples and instructions; Stencils available on the web <br><br><b></b>]]></isc:description>
+<isc:productid><![CDATA[Artist Messenger Gray]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/4/CSAM15GRAY.jpg?maxX=120&maxY=120]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/4/CSAM15GRAY.jpg]]></isc:image>
+<isc:price><![CDATA[£100.00]]></isc:price>
+</item>
+<item>
+<title><![CDATA[Distressed Bifold Black]]></title>
+<link>http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/98/SKU83405.jpg?maxX=120&maxY=120" align="right" border=0></a>Classic bifold design|ID window with extra fold card slots|Distressed faux leather fabric...<a href="http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £8.03 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3184&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html?referrer=rss"><img src="http://cartdanilo.3dc.local/http://images.doba.com/products/98/SKU83405.jpg?maxX=120&maxY=120" align="right" border=0></a>Classic bifold design|ID window with extra fold card slots|Distressed faux leather fabric...<a href="http://cartdanilo.3dc.local/Distressed-Bifold-Black_p_3184.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £8.03 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=3184&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[Classic bifold design|ID window with extra fold card slots|Distressed faux leather fabric]]></isc:description>
+<isc:productid><![CDATA[Distressed Bifold Black]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/98/SKU83405.jpg?maxX=120&maxY=120]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/http://images.doba.com/products/98/SKU83405.jpg]]></isc:image>
+<isc:price><![CDATA[£8.03]]></isc:price>
+</item>
+</channel></rss>

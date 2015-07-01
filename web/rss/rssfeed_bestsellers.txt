@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.3dcart.com/ecommerce-1.0.dtd">
+<channel>
+<title>Danilo's Store: Best Sellers</title>
+<link>http://cartdanilo.3dc.local</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description>List of Best Seller Items at Danilo's Store</description>
+<language>en-us</language>
+<isc:store_name><![CDATA[Danilo's Store]]></isc:store_name>
+<item>
+<title><![CDATA[Baby's Hat]]></title>
+<link>http://cartdanilo.3dc.local/Babys-Hat_p_727.html</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ <p><a href="http://cartdanilo.3dc.local/Babys-Hat_p_727.html?referrer=rss"><img src="http://cartdanilo.3dc.local/assets/images/207936_1827791728560_1053305514_2053545_211750_n_thumbnail.jpg" align="right" border=0></a>¦ testing?Cdscds?CdscdsThis model is simple, but stunning! It is a FULLY ASSEMBLED replica of a canoe introduced in 1902 by J. H. Rushton, one of the nations leading canoe makers at the turn of the century. It looks and feels like a miniature version...<a href="http://cartdanilo.3dc.local/Babys-Hat_p_727.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £5.00 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=727&out=1" target="_new">Add to Cart</a>]</p><br clear=all> ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/Babys-Hat_p_727.html</guid>
+<content:encoded><![CDATA[<p><a href="http://cartdanilo.3dc.local/Babys-Hat_p_727.html?referrer=rss"><img src="http://cartdanilo.3dc.local/assets/images/207936_1827791728560_1053305514_2053545_211750_n_thumbnail.jpg" align="right" border=0></a>¦ testing?Cdscds?CdscdsThis model is simple, but stunning! It is a FULLY ASSEMBLED replica of a canoe introduced in 1902 by J. H. Rushton, one of the nations leading canoe makers at the turn of the century. It looks and feels like a miniature version...<a href="http://cartdanilo.3dc.local/Babys-Hat_p_727.html?referrer=rss">[Read More]</a><br><b>Our Price:</b> £5.00 <font color="red"></font> [<a href="http://cartdanilo.3dc.local/add_cart.asp?quick=1&item_id=727&out=1" target="_new">Add to Cart</a>]</p><br clear=all>]]></content:encoded>
+<isc:description><![CDATA[¦ testing<br>
+?	Cdscds<br>
+?	Cdscds<br>
+
+<ul style=""><li>This model is simple, but  stunning! It is a FULLY ASSEMBLED replica of a canoe introduced in 1902  by J. H. Rushton, one of the nations leading canoe makers at the turn  of the century. It looks and feels like a miniature version of an actual  canoe.</li><li><br></li><li>This 24-inch model is handcrafted with the highest  quality woods from scratch by master artisans using plane-on-frame  construction, just like real canoes.  Each model takes many hours to  construct and undergoes a demanding quality-control process. Among the  details: interior ribs, paddles, seats, nameplate and wood base.</li><li><br></li><li>Dimensions:  24" long x 7" tall x 5" wide.</li><li><br></li><li>FREE ground shipping in  continental U.S. (Express shipping not available.) </li><li><br></li><li>To view other  images that show this model ship up close and/or from different angles,  <a href="http://nytimage.nytstore.com/images/B013.html" target="_new"><span style="color: rgb(0, 0, 255); ">click here</span></a>.</li><li><br></li><li>Comes with FREE 8" x  10" <a href="http://nytimage.nytstore.com/images/freephoto.html" target="_new"><span style="color: rgb(0, 0, 255); ">Tall Ships photo</span></a> -  doubled matted and suitable for framing!</li></ul>         ]]></isc:description>
+<isc:productid><![CDATA[Baby's Hat]]></isc:productid>
+<isc:thumb><![CDATA[http://cartdanilo.3dc.local/assets/images/207936_1827791728560_1053305514_2053545_211750_n_thumbnail.jpg]]></isc:thumb>
+<isc:image><![CDATA[http://cartdanilo.3dc.local/assets/images/207936_1827791728560_1053305514_2053545_211750_n.jpg]]></isc:image>
+<isc:price><![CDATA[£5.00]]></isc:price>
+</item>
+</channel></rss>

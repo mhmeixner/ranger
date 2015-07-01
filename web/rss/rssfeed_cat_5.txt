@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.3dcart.com/ecommerce-1.0.dtd">
+<channel>
+<title>3dcart Store: </title>
+<link>http://cartdanilo.3dc.local</link>
+<pubDate>Wed, 4 Sep 2013 00:00:00 EST</pubDate>
+<description> at 3dcart Store</description>
+<language>en-us</language>
+<isc:store_name><![CDATA[3dcart Store]]></isc:store_name>
+</channel></rss>

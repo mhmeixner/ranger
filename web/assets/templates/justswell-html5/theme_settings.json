@@ -1,0 +1,292 @@
+{
+    "themesettings": [
+        {
+            "page": "Address Book",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Address Book - Checkout",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Address Book - Edit Address",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "My Account",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Previously Purchased",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Registration",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Registration - Thank You",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reset Password",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Affiliate - Affiliate Details",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Affiliate - Register Form",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Affiliate - Signup Information",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "CRM - Add new ticket",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "CRM - Edit ticket",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Create Registry",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Delete Registry",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Home",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - List Registry",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Password",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Preview Invitation Email",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - Signup Information",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Gift Registry - View Registry",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Blog",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Category Page",
+            "hide_left": false,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #1",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #2",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #2 Multiple",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #3",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #3 Multiple",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Checkout #4",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Contact Us",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Error Page",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Home Page",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Listing Page",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Order Tracking",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Search results",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "View Cart",
+            "hide_left": true,
+            "hide_right": true,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reward - Redeem Prod",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reward - Redeem Prod Completed",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reward - Redeem Prod List",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reward - Rewards Details",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "RMA - My RMA",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "RMA - New RMA",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "RMA - New RMA Created",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Wishlist - Public View",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Wishlist - Signup Information",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Wishlist - View",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Wishlist - View Multiple Lists",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        },
+        {
+            "page": "Reminders - View",
+            "hide_left": false,
+            "hide_right": false,
+            "hide_framemenu": false
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.3dcart.com/ecommerce-1.0.dtd">
+<channel>
+<title>Danilo's Store: Blog Posts</title>
+<link>http://cartdanilo.3dc.local</link>
+<pubDate>Tue, 13 Aug 2013 00:00:00 EST</pubDate>
+<description>List of Latest Blog Posts at Danilo's Store</description>
+<language>en-us</language>
+<isc:store_name><![CDATA[Danilo's Store]]></isc:store_name>
+<item>
+<title><![CDATA[test test test]]></title>
+<link>http://cartdanilo.3dc.local/test-test-test_b_9.html</link>
+<pubDate>Tue, 1 Jan 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ ertergg ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/test-test-test_b_9.html</guid>
+<content:encoded><![CDATA[ertergg]]></content:encoded>
+<isc:description><![CDATA[dfbgfbdf]]></isc:description>
+<isc:productid><![CDATA[9]]></isc:productid>
+<isc:author><![CDATA[Technical Support User]]></isc:author>
+</item>
+<item>
+<title><![CDATA[vfdvds vdfs vdfs dfs ]]></title>
+<link>http://cartdanilo.3dc.local/vfdvds-vdfs-vdfs-dfs-_b_10.html</link>
+<pubDate>Tue, 1 Jan 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ vdfvdfv ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/vfdvds-vdfs-vdfs-dfs-_b_10.html</guid>
+<content:encoded><![CDATA[vdfvdfv]]></content:encoded>
+<isc:description><![CDATA[dsvdfsvdfs]]></isc:description>
+<isc:productid><![CDATA[10]]></isc:productid>
+<isc:author><![CDATA[Technical Support User]]></isc:author>
+</item>
+<item>
+<title><![CDATA[sdasas]]></title>
+<link>http://cartdanilo.3dc.local/sdasas_b_11.html</link>
+<pubDate>Tue, 1 Jan 2013 00:00:00 EST</pubDate>
+<description><![CDATA[ das ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/sdasas_b_11.html</guid>
+<content:encoded><![CDATA[das]]></content:encoded>
+<isc:description><![CDATA[asdasasdas]]></isc:description>
+<isc:productid><![CDATA[11]]></isc:productid>
+<isc:author><![CDATA[Technical Support User]]></isc:author>
+</item>
+<item>
+<title><![CDATA[test]]></title>
+<link>http://cartdanilo.3dc.local/test_b_8.html</link>
+<pubDate>Tue, 2 Oct 2012 00:00:00 EST</pubDate>
+<description><![CDATA[ test ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/test_b_8.html</guid>
+<content:encoded><![CDATA[test]]></content:encoded>
+<isc:description><![CDATA[test]]></isc:description>
+<isc:productid><![CDATA[8]]></isc:productid>
+<isc:author><![CDATA[Technical Support User]]></isc:author>
+</item>
+<item>
+<title><![CDATA[New Post...]]></title>
+<link>http://cartdanilo.3dc.local/New-Post_b_7.html</link>
+<pubDate>Thu, 31 May 2012 00:00:00 EST</pubDate>
+<description><![CDATA[  ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/New-Post_b_7.html</guid>
+<content:encoded><![CDATA[]]></content:encoded>
+<isc:description><![CDATA[]]></isc:description>
+<isc:productid><![CDATA[7]]></isc:productid>
+<isc:author><![CDATA[Technical Support User]]></isc:author>
+</item>
+<item>
+<title><![CDATA[New Post...]]></title>
+<link>http://cartdanilo.3dc.local/New-Post_b_6.html</link>
+<pubDate>Thu, 7 Apr 2011 00:00:00 EST</pubDate>
+<description><![CDATA[  ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/New-Post_b_6.html</guid>
+<content:encoded><![CDATA[]]></content:encoded>
+<isc:description><![CDATA[]]></isc:description>
+<isc:productid><![CDATA[6]]></isc:productid>
+<isc:author><![CDATA[Danilo Alvarenga]]></isc:author>
+</item>
+<item>
+<title><![CDATA[New Post...]]></title>
+<link>http://cartdanilo.3dc.local/New-Post_b_3.html</link>
+<pubDate>Wed, 15 Sep 2010 00:00:00 EST</pubDate>
+<description><![CDATA[  ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/New-Post_b_3.html</guid>
+<content:encoded><![CDATA[]]></content:encoded>
+<isc:description><![CDATA[]]></isc:description>
+<isc:productid><![CDATA[3]]></isc:productid>
+<isc:author><![CDATA[Danilo Alvarenga]]></isc:author>
+</item>
+<item>
+<title><![CDATA[Pollo Loco]]></title>
+<link>http://cartdanilo.3dc.local/Pollo-Loco_b_1.html</link>
+<pubDate>Fri, 18 Jun 2010 00:00:00 EST</pubDate>
+<description><![CDATA[ Pollo loco is trying to work on this version.You better work good man!!!!  ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/Pollo-Loco_b_1.html</guid>
+<content:encoded><![CDATA[Pollo loco is trying to work on this version.You better work good man!!!! ]]></content:encoded>
+<isc:description><![CDATA[Pollo loco is trying to work on this version.You better work good man!!!!]]></isc:description>
+<isc:productid><![CDATA[1]]></isc:productid>
+<isc:author><![CDATA[Danilo Alvarenga]]></isc:author>
+</item>
+<item>
+<title><![CDATA[DJ Earworm]]></title>
+<link>http://cartdanilo.3dc.local/DJ-Earworm_b_2.html</link>
+<pubDate>Fri, 18 Jun 2010 00:00:00 EST</pubDate>
+<description><![CDATA[ Curabitur et odio ante, ac hendrerit enim. Donec sit amet metus felis, sed congue lectus. Nulla et magna nulla, auctor blandit sapien. Donec elit lorem, imperdiet ut condimentum eget, laoreet et nunc. Nulla tincidunt, velit eget bibendum sollicitudin, metus nulla lacinia nibh, nec fermentum odio ante a odio. Aliquam sollicitudin tincidunt risus, at imperdiet elit tempor volutpat. Donec suscipit leo ut mi sodales vitae rhoncus enim tincidunt. Sed ut eros felis. Cras egestas odio vitae sapien accumsan vitae molestie purus ultrices. Praesent convallis laoreet dolor et congue. Pellentesque sollicitudin, nisi at auctor semper, nisl eros imperdiet odio, quis porta nisi felis in urna. Pellentesque vitae massa et tellus rhoncus sodales nec ut felis. Suspendisse hendrerit vehicula elit non semper. Duis eros libero, ultrices eu varius nec, malesuada non leo. Duis vehicula erat sit amet erat viverra porta. Nullam massa erat, elementum ac luctus vitae, ullamcorper et eros. ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/DJ-Earworm_b_2.html</guid>
+<content:encoded><![CDATA[Curabitur et odio ante, ac hendrerit enim. Donec sit amet metus felis, sed congue lectus. Nulla et magna nulla, auctor blandit sapien. Donec elit lorem, imperdiet ut condimentum eget, laoreet et nunc. Nulla tincidunt, velit eget bibendum sollicitudin, metus nulla lacinia nibh, nec fermentum odio ante a odio. Aliquam sollicitudin tincidunt risus, at imperdiet elit tempor volutpat. Donec suscipit leo ut mi sodales vitae rhoncus enim tincidunt. Sed ut eros felis. Cras egestas odio vitae sapien accumsan vitae molestie purus ultrices. Praesent convallis laoreet dolor et congue. Pellentesque sollicitudin, nisi at auctor semper, nisl eros imperdiet odio, quis porta nisi felis in urna. Pellentesque vitae massa et tellus rhoncus sodales nec ut felis. Suspendisse hendrerit vehicula elit non semper. Duis eros libero, ultrices eu varius nec, malesuada non leo. Duis vehicula erat sit amet erat viverra porta. Nullam massa erat, elementum ac luctus vitae, ullamcorper et eros.]]></content:encoded>
+<isc:description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut ipsum eu diam vulputate sollicitudin a eget sapien. Fusce consequat ultrices sem, ut accumsan est laoreet vel. Etiam varius molestie nisi, non luctus augue adipiscing eu. Nullam at orci ipsum, eget fringilla lacus. Suspendisse potenti. Morbi et massa non justo tincidunt adipiscing in quis justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc est odio, bibendum vel cursus at, elementum eget dolor. Morbi in enim nec purus ullamcorper sagittis. Nullam et leo vel nisl luctus semper.Curabitur et odio ante, ac hendrerit enim. Donec sit amet metus felis, sed congue lectus. Nulla et magna nulla, auctor blandit sapien. Donec elit lorem, imperdiet ut condimentum eget, laoreet et nunc. Nulla tincidunt, velit eget bibendum sollicitudin, metus nulla lacinia nibh, nec fermentum odio ante a odio. Aliquam sollicitudin tincidunt risus, at imperdiet elit tempor volutpat. Donec suscipit leo ut mi sodales vitae rhoncus enim tincidunt. Sed ut eros felis. Cras egestas odio vitae sapien accumsan vitae molestie purus ultrices. Praesent convallis laoreet dolor et congue. Pellentesque sollicitudin, nisi at auctor semper, nisl eros imperdiet odio, quis porta nisi felis in urna. Pellentesque vitae massa et tellus rhoncus sodales nec ut felis. Suspendisse hendrerit vehicula elit non semper. Duis eros libero, ultrices eu varius nec, malesuada non leo. Duis vehicula erat sit amet erat viverra porta. Nullam massa erat, elementum ac luctus vitae, ullamcorper et eros.]]></isc:description>
+<isc:productid><![CDATA[2]]></isc:productid>
+<isc:author><![CDATA[Joel Edwards]]></isc:author>
+</item>
+<item>
+<title><![CDATA[aaaaa]]></title>
+<link>http://cartdanilo.3dc.local/aaaaa_b_4.html</link>
+<pubDate>Mon, 1 Jan 1900 00:00:00 EST</pubDate>
+<description><![CDATA[ sdcdscd  ]]></description>
+<guid isPermaLink="false">http://cartdanilo.3dc.local/aaaaa_b_4.html</guid>
+<content:encoded><![CDATA[sdcdscd ]]></content:encoded>
+<isc:description><![CDATA[csd ]]></isc:description>
+<isc:productid><![CDATA[4]]></isc:productid>
+<isc:author><![CDATA[Danilo Alvarenga]]></isc:author>
+</item>
+</channel></rss>
